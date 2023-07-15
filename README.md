@@ -31,35 +31,37 @@ You should see something like:
   0 passing (6ms)
   11 pending
 ```
+
 5. Make sure you read each subdirectory's README carefully before starting to code!
 
 ## Overview
 
-There are lots of test suites in this repo! Our recommendation is to work through this repo as preparation for your final assessment.  
-  
+There are lots of test suites in this repo! Our recommendation is to work through this repo as preparation for your final assessment.
+
 We find that when students complete the same test suite over and over, memorization and pattern matching kick in (which is not what we want!). These test suites should be improving your problem solving skills. If you feel yourself being able to write code without reading the full test, it’s probably time for a new test suite. You can (and should) be strategic about how you use these - for example, you might use one of the repos for a mock final assessment with your mentor.
 
 Completing all of these test suites is not necessary, but you should be working on this repo regularly. We see that students are the most successful when they establish a routine for working through these test suites. For example, you might work on them for 45 minutes every morning before class. Find a routine that works best for you and plan ahead so you remain on track to complete the majority of the tests.
 
 ### Test Suites
-- [ ] 🧚 ‍[Mythical Creatures](./mythical-creatures)
-- [ ] ✈️ [Airport](./airport)
-- [ ] 🎧 [DJ](./dj)
-- [ ] 🍔 [Favorite Foods](./favorite-foods)
-- [ ] 🎮 [Video Games](./video-games/)
-- [ ] 🎂 [Birthdays](./birthdays)
-- [ ] 🗓 [Calendar](./calendar/)
-- [ ] 💵 [Vending Machine](./dollar-store-vending-machine/)
-- [ ] 🛗 [Elevator](./elevator/)
-- [ ] 📚 [Library](./library)
-- [ ] 🌮 [Taco Stand](./tacoStand/)
-- [ ] 🧶 [Crafting](./crafting/)
-- [ ] ✂️ [Barber Shop](./barber-shop/)
-- [ ] 🥗 [Meal Planning](./meal-planning/)
-- [ ] 🍜 [Restaurant](./restaurant/)
-- [ ] 🧖‍♀️ [Spa](./spa/)
-- [ ] 🎵 [Spotify](./spotify/)
-- [ ] 📼 [VHS](./vhs/)
+
+- [ 🥭] 🧚 ‍[Mythical Creatures](./mythical-creatures)
+- [ 🥭🥟] ✈️ [Airport](./airport)
+- [ 🥭🥟] 🎧 [DJ](./dj)
+- [ 🥭🥟] 🍔 [Favorite Foods](./favorite-foods)
+- [ 🥭🥟] 🎮 [Video Games](./video-games/)
+- [ 🥭🥟] 🎂 [Birthdays](./birthdays)
+- [ 🥭🥟] 🗓 [Calendar](./calendar/)
+- [ 🥭🥟] 💵 [Vending Machine](./dollar-store-vending-machine/)
+- [🥭🥟 ] 🛗 [Elevator](./elevator/)
+- [ 🥭🥟] 📚 [Library](./library)
+- [ 🥭🥟] 🌮 [Taco Stand](./tacoStand/)
+- [ 🥭🥟] 🧶 [Crafting](./crafting/)
+- [ 🥭🥟] ✂️ [Barber Shop](./barber-shop/)
+- [ 🥭🥟] 🥗 [Meal Planning](./meal-planning/)
+- [🥭🥟 ] 🍜 [Restaurant](./restaurant/)
+- [ 🥭🥟] 🧖‍♀️ [Spa](./spa/)
+- [ 🥭🥟] 🎵 [Spotify](./spotify/)
+- [ 🥭🥟] 📼 [VHS](./vhs/)
 
 - [x] Want to track your progress? First, make sure you're on a forked version of this repo. Then, you can edit the README and change `[ ]` to `[x]` on the suites you've completed!
 

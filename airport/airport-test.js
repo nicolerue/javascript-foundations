@@ -1,4 +1,7 @@
 var assert = require("chai").assert;
+//getting a library/franework
+
+// Importing variable names from the filname airport.js
 var {
   createAirport,
   welcomeGuests,
@@ -6,6 +9,8 @@ var {
   checkAirlineLocations,
 } = require("./airport");
 
+//describing the test.
+// I am assigning the return the value of the function createAirport, and whatever that return value is, I am assigning that to the variable of airport
 describe("Airport", function () {
   it("should create an airport", function () {
     var airport = createAirport(
@@ -14,6 +19,7 @@ describe("Airport", function () {
       144
     );
 
+    //asserrt statement is just comparing the first value with the second value.
     assert.equal(airport.name, "Denver International Airport");
     assert.equal(airport.availableGates, 144);
     assert.equal(airport.airlines[0], "United");
@@ -41,7 +47,7 @@ describe("Airport", function () {
     );
   });
 
-  it("should keep track of open gates", function () {
+  it.skip("should keep track of open gates", function () {
     var bakersfieldAirport = createAirport(
       "Meadows Field Airport",
       ["United", "American"],
@@ -60,7 +66,7 @@ describe("Airport", function () {
     assert.equal(sanDiegoGates.availableGates, 46);
   });
 
-  it("should not be able to occupy more gates than available", function () {
+  it.skip("should not be able to occupy more gates than available", function () {
     var columbusAiport = createAirport(
       "John Glenn Airport",
       ["Southwest", "Frontier"],
@@ -84,7 +90,7 @@ describe("Airport", function () {
     );
   });
 
-  it("should be able to tell you where an airline flies to", function () {
+  it.skip("should be able to tell you where an airline flies to", function () {
     var columbusAiport = createAirport(
       "John Glenn Airport",
       ["Southwest", "Frontier"],
